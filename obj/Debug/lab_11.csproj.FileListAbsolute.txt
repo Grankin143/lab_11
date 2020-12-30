@@ -1,0 +1,5 @@
+C:\Users\Юрий\Desktop\projects\lab_11\lab_11\bin\Debug\lab_11.exe.config
+C:\Users\Юрий\Desktop\projects\lab_11\lab_11\bin\Debug\lab_11.exe
+C:\Users\Юрий\Desktop\projects\lab_11\lab_11\bin\Debug\lab_11.pdb
+C:\Users\Юрий\Desktop\projects\lab_11\lab_11\obj\Debug\lab_11.exe
+C:\Users\Юрий\Desktop\projects\lab_11\lab_11\obj\Debug\lab_11.pdb
